@@ -211,6 +211,17 @@ main > section {
   margin: 0 auto
 }
 
+.mynew-jumbotron {
+  border:50px solid #ffffff;
+  width: 1200px;
+  margin: 0 auto
+}
+
+.jumbotron text-center mdb-color lighten-2 white-text mx-2 mb-5 {
+    font-size: 16px
+    color: #000;
+}
+
 /**
 /*	Preloader
 /* ==========================================*/
